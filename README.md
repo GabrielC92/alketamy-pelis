@@ -1,6 +1,6 @@
-## Alketamy-pelis
+# Alketamy-pelis
 
-# Descripción de las tareas
+## Descripción de las tareas
 Crear un archivo readme en la raiz del proyecto y detallar los pasos para empezar a trabajar, de entrada serían:
 
 * Clonar el repo.
@@ -51,7 +51,7 @@ Crear un archivo readme en la raiz del proyecto y detallar los pasos para empeza
 
 Al pushear por primera vez la rama en la terminal va a aparecer un link para crear el PR, si no lo encuentran entran a github,  y dentro del proyecto les va a aparecer la opcion que dice Create new pull request.  Hacen click y luego le dan un nombre descriptivo al PR, y donde dice reviewers me seleccionan a mi
 
-# Jira
+## Jira
 
 * Cuando se empieza una tarea mover el ticket a en curso.
 
