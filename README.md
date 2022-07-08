@@ -1,55 +1,54 @@
 # Alketamy-pelis
 
 ## Descripción de las tareas
-Crear un archivo readme en la raiz del proyecto y detallar los pasos para empezar a trabajar, de entrada serían:
 
 * Clonar el repo.
 
-* Instalar las dependencias en cada proyecto (entrar a app y npm i, entrar a api y npm i).
+* Instalar las dependencias en cada proyecto (entrar a app y poner en consola `npm i`, entrar a api y poner en consola `npm i`).
 
 * Desde la rama DEV ejecutar el siguiente comando:
 
-- git config core.autocrlf false
+  > `git config core.autocrlf false`
 
-* Instalar las siguientes extensiones de visual
+* Instalar las siguientes extensiones de visual:
 
-- Prettier - Code Formatter
+    Prettier - Code Formatter
 
-- ESLint
+    ESLint
 
-- npm Intellisense
+    npm Intellisense
 
-- Trailing Spaces
+    Trailing Spaces
 
-- Visual Studio IntelliCode
+    Visual Studio IntelliCode
 
-- Markdown Preview Enhanced
+    Markdown Preview Enhanced
 
-- Material Icon Theme
+    Material Icon Theme
 
-- Prisma
+    Prisma
 
-* Configuracion de Visual: 
+* Configuracion de Visual:
 
-- Tab Size: 2
+    Tab Size: 2
 
-- Editor: Detect Identation: true
+    Editor: Detect Identation: true
 
-- Editor: Insert Spaces: true
+    Editor: Insert Spaces: true
 
-- En "setting.json" de Visual Studio Code agregar esta linea "files.eol": "\n"
+    En "setting.json" de Visual Studio Code agregar esta linea "files.eol": "\n"
 
-* Crear una rama para empezar a trabajar ej: git checkout -b g2-1-header
+* Crear una rama para empezar a trabajar ej: `git checkout -b g2-1-header`
 
 * Cuando se termina pushear a la rama:
 
-- git add .
+  > `git add .`
 
-- git commit -m ”mensaje descriptivo”
+  > `git commit -m ”mensaje descriptivo”`
 
-- git push origin ”nombre de la rama”
+  > `git push origin ”nombre de la rama”`
 
-Al pushear por primera vez la rama en la terminal va a aparecer un link para crear el PR, si no lo encuentran entran a github,  y dentro del proyecto les va a aparecer la opcion que dice Create new pull request.  Hacen click y luego le dan un nombre descriptivo al PR, y donde dice reviewers me seleccionan a mi
+Al pushear por primera vez la rama en la terminal va a aparecer un link para crear el PR, si no lo encuentran entran a Github,  y dentro del proyecto les va a aparecer la opcion que dice Create new pull request.  Hacen click y luego le dan un nombre descriptivo al PR, y donde dice reviewers me seleccionan a mi
 
 ## Jira
 
